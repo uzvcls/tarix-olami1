@@ -1,0 +1,156 @@
+[
+{
+"login": "abdumalikova.parizoda",
+"name": "Abdumalikova Parizoda",
+"cls": "6-A",
+"salt": "b3d257127dae8925c8aae9ac49ab43f6",
+"hash": "83c9ff0bdd34e7b59303cdeb1bdac35674ad555f2761acb89ee175d1ab17997b"
+},
+{
+"login": "alijonov.yusuf",
+"name": "Alijonov Yusuf",
+"cls": "6-A",
+"salt": "e7e80aa978dd0e145e8d17117d904cee",
+"hash": "3ea6574c0ee8501bc1f59f1f5a3153bc1fe02999f67b50b00fac1b67ae5879ac"
+},
+{
+"login": "ashurboyev.muhammadyusuf",
+"name": "Ashurboyev Muhammadyusuf",
+"cls": "6-A",
+"salt": "cc85f421a8254aa7bb5898b891866bd7",
+"hash": "e8c9c14e2c0a9057495df9e88c1da1cbd79783198bb8a3984a848e1130487bb3"
+},
+{
+"login": "azimov.ibrohim",
+"name": "Azimov Ibrohim",
+"cls": "6-A",
+"salt": "85a49536cffb6e63070a2224be0c91c5",
+"hash": "c8f7629bd97ff7eab5ec424dfd90e573042e1b0ea72a0b9b6d6565ba779a0c5d"
+},
+{
+"login": "akramova.xonzoda",
+"name": "Akramova Xonzoda",
+"cls": "6-A",
+"salt": "18cb9514fd102b5a9303e815b946263c",
+"hash": "9a0ca7a06e2755a08a53beccf96b4ac6e3fe6b54c1cc38868aa7df8b107267b9"
+},
+{
+"login": "ganiyev.oyatillo",
+"name": "G‘aniyev Oyatillo",
+"cls": "6-A",
+"salt": "cad3f597f5dbf92ff64e27ef6a02cf82",
+"hash": "e4aa052cda6fde6e3f526b70fb608b185ffb27e841c5a98e4ef267e1a808364c"
+},
+{
+"login": "gapporov.abdulaziz",
+"name": "G‘apporov Abdulaziz",
+"cls": "6-A",
+"salt": "68595e9f1494a7bdcf16d170d666ba4e",
+"hash": "ae971079d3ad730b0268fd251f1eb1d6fec7f3c1a7a353f8abc9ef51af33af68"
+},
+{
+"login": "isomov.muhammadrizo",
+"name": "Isomov Muhammadrizo",
+"cls": "6-A",
+"salt": "cc5d0299f22249d50839873172d20329",
+"hash": "761bd758f3df55289598d9846435c9b0865816726c73ad597f111618aebd38ce"
+},
+{
+"login": "hayrullayeva.munavvara",
+"name": "Hayrullayeva Munavvara",
+"cls": "6-A",
+"salt": "70d9c7ab754ea6fb1b0af3c46fb7e970",
+"hash": "7d5c313365d6dc9f8da6241a67c79944934eda5c8d62b8c2277d47f48bc04600"
+},
+{
+"login": "nurullayev.amirbek",
+"name": "Nurullayev Amirbek",
+"cls": "6-A",
+"salt": "b12f658fe25f4c0e3333b53608f53887",
+"hash": "1225bf1142c06de33e912b78e44113df925ea7430f6df41b1e2072a78c918492"
+},
+{
+"login": "nurullayev.amonullo",
+"name": "Nurullayev Amonullo",
+"cls": "6-A",
+"salt": "aa84dd6431df2f3ea3b622fa6bf8b085",
+"hash": "6c84986c44e74e130f286d205f51b32faa9e40b1d29c4c806a18a48e06be01e0"
+},
+{
+"login": "rahimov.abdulqodir",
+"name": "Rahimov Abdulqodir",
+"cls": "6-A",
+"salt": "74553290d9dbf17bf8e5b18d917cd362",
+"hash": "2e5923054473f2e245c64559449c3422a3ecdc860bf71262106bcdc99e880189"
+},
+{
+"login": "ruziboyev.hayotbek",
+"name": "Ruziboyev Hayotbek",
+"cls": "6-A",
+"salt": "7a9a5a120e0bd125f1e6a60fe0aff4a9",
+"hash": "b97fbd83059a77b0f82520d9470c6fb6344a29c9620299d75a881d1cced8ede8"
+},
+{
+"login": "hayrullayeva.muslima",
+"name": "Hayrullayeva Muslima",
+"cls": "6-A",
+"salt": "17baab6b2a6f8ba2b90d9bbcb1e55091",
+"hash": "bcc20590ea30dcc0027903e28715278903e9ca73fe8e06b026937389ce7753b4"
+},
+{
+"login": "ulugbekov.amirjon",
+"name": "Ulug‘bekov Amirjon",
+"cls": "6-A",
+"salt": "82bf9564ffb6720d52579d65eafc2451",
+"hash": "00024435b49ca01c553b5dfc96044a794b5d3095f9eccaad854c74b190bac3c9"
+},
+{
+"login": "xakimov.islomjon",
+"name": "Xakimov Islomjon",
+"cls": "6-A",
+"salt": "2a500a54d513ab28d9e462eb4e66ddbd",
+"hash": "543fbbe9dfcbe34a2132033c61adb708cedb09c028dcab8fb3d069fd841d4609"
+},
+{
+"login": "xamidov.muhammadsodiq",
+"name": "Xamidov Muhammadsodiq",
+"cls": "6-A",
+"salt": "7d080d56430a5122572ccd11a313dabf",
+"hash": "2a92841672ed74b11269022302769033b17b68f80f4ad490b32acb32a257f485"
+},
+{
+"login": "xudoyberdiyev.nemat",
+"name": "Xudoyberdiyev Ne’mat",
+"cls": "6-A",
+"salt": "cea2ed23406f11e9cdc34a5fddbfc556",
+"hash": "4df0d90e0e9017be2c3d954262dfc06e5cb45c8f29bc3cc7f8cab8351aa2d5f1"
+},
+{
+"login": "mahmudov.asadbek",
+"name": "Mahmudov Asadbek",
+"cls": "6-A",
+"salt": "3456abbe3ef5b29308f23756901bc9fb",
+"hash": "d08cb2eacb9119a3fc67c6214e09f1fcd8e83b13de04b3759730e444c5fc0a31"
+},
+{
+"login": "egamberdiyev.momin",
+"name": "Egamberdiyev Mo’min",
+"cls": "6-A",
+"salt": "852fa1385d47ed9d87ae32ce6dad13cd",
+"hash": "aa65a46627be9e313c8126e7d7ed3049a009eccede490b4cea624f7ed08f76f8"
+},
+{
+"login": "solixov.abduqodir",
+"name": "Solixov Abduqodir",
+"cls": "6-A",
+"salt": "5939551a1df3d9e1124c3e67974a82a1",
+"hash": "29c4545ceb6794c888eba525a03a8b7adcebd01375d190ded318bd5763669ccd"
+},
+{
+"login": "usmonov.xasan",
+"name": "Usmonov Xasan",
+"cls": "6-A",
+"salt": "9030717ead01b8db3629b433bbd07122",
+"hash": "2bf2d9327ee488e376497305609545969d9fb405d1c84961c4d6a33f6f8ab1fa"
+}
+]
